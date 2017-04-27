@@ -1,0 +1,2 @@
+init wang.txt
+welcome to china!
