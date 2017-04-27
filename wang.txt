@@ -1,2 +1,3 @@
 init wang.txt
 welcome to china!
+I AN LI MING! HELLO!
