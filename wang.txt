@@ -1,2 +1,3 @@
 init wang.txt
 welcome to china!
+i am tom , this is my content!
